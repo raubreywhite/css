@@ -810,7 +810,7 @@ select, .btn.btn-active {
     color: #fff; }
 
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
-.shiny-options-group{display: table; margin: 0 auto; }
+.shiny-options-group{display: table; margin: 0 auto; text-align: left;}
 .shiny-input-container{display: table; margin: 0 auto; }
 label{
   display: table!important;
