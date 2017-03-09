@@ -807,11 +807,7 @@ select, .btn.btn-active {
 }
 .shiny-input-container{display: table; margin: 0 auto; }
 
-label {display:table!important; 
-    line-height: 1.8!important;
-color:red;}
-
-.form-group label {display:table!important; 
+label.form-group {display:table!important; 
     line-height: 1.8!important;
 color:green;}
 
