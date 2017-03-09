@@ -805,6 +805,7 @@ select, .btn.btn-active {
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
 .shiny-options-group{display: table; margin: 0 auto;}
 .shiny-input-container{display: table; margin: 0 auto; }
+
 label{
   display: table!important;
   margin: 0 auto!important;
@@ -813,6 +814,7 @@ label{
     line-height: 1.8!important; 
 float:left !important;
 background-color: red !important;
+color: green !important;
   font-size: 14px!important;;
 }
 
