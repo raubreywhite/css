@@ -807,7 +807,7 @@ select, .btn.btn-active {
 float:left!important;}
 .shiny-input-container{display: table; margin: 0 auto; }
 
-.control-label label{
+label.control-label{
   display: block!important;
   margin: 0 auto!important;
     margin-bottom: 0em!important;
