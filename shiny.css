@@ -811,7 +811,7 @@ label {display:table!important;
     line-height: 1.8!important;
   font-size: 14px!important;
 }
-
+/*
 div.shiny-input-radiogroup label {display:table!important; 
     line-height: 1.8!important;
   font-size: 14px!important;
@@ -830,7 +830,7 @@ margin-left:-300px !important;
 text-align:right;
 
 }
-
+*/
 .containerx{display: table; margin: 0 auto;}
 .blockx{float: left;  margin: 0 10px; }
 
