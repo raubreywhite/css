@@ -844,6 +844,7 @@ label{
     float: left;
     text-align: left;
     vertical-align: middle;
+    margin: 0px;
     display:block;
 }
 
@@ -851,5 +852,6 @@ label{
     float: left;
     text-align: left;
     vertical-align: middle;
+    margin: 0px;
     display:block;
 }
