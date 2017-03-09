@@ -451,7 +451,7 @@ body {
     font-size: 18px;
     line-height: 1.5; }
 
-h1, h2, h3, h4, h5, h6, button, select, input, textarea, nav, .nav, svg text {
+h1, h2, h3, h4, h5, h6, button, select, input, textarea, nav, .nav, svg text, body, label, span {
     font-family: "Montserrat", Avenir Next, Arial, Helvetica, sans-serif; }
 
 h1 {
