@@ -807,6 +807,8 @@ select, .btn.btn-active {
 }
 .shiny-input-container{display: table; margin: 0 auto; }
 
+label {display:table!important; color:red;}
+
 label.control-label{
   display: table!important;
   margin: 0 auto!important;
@@ -818,6 +820,7 @@ float:left !important;
 width: 300px !important;
 margin-left:-300px !important;
 text-align:right;
+color:yellow;
 }
 
 .containerx{display: table; margin: 0 auto;}
