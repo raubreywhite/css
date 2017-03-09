@@ -807,7 +807,7 @@ select, .btn.btn-active {
 }
 .shiny-input-container{display: table; margin: 0 auto; }
 
-label.form-group {display:table!important; 
+label {display:table!important; 
     line-height: 1.8!important;
 color:green;}
 
@@ -817,7 +817,7 @@ label.control-label{
     margin-bottom: 0em!important;
     margin-top: 5px!important;
     line-height: 1.8!important; 
-float:right !important;
+float:left !important;
   font-size: 14px!important;;
 width: 300px !important;
 margin-left:-300px !important;
