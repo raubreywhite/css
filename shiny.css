@@ -808,20 +808,7 @@ select, .btn.btn-active {
 .shiny-input-container{display: table; margin: 0 auto; }
 
 
-.center-div label{display: block !important; text-align: center !important; color: red;}
-
-.form-group label{
-  display: block!important;
-  margin: 0 auto!important;
-    margin-bottom: 0em!important;
-    margin-top: 5px!important;
-    line-height: 1.8!important; 
-float:right !important;
-  font-size: 14px!important;;
-width: 300px !important;
-margin-left:-300px !important;
-
-}
+.center-div label{display: table !important; text-align: center !important; color: red;}
 
 label.control-label{
   display: block!important;
