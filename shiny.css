@@ -818,11 +818,13 @@ select, .btn.btn-active {
 .blockx{float: left;  margin: 0 10px; }
 
 .radio input{
+    float: left;
     text-align: left;
     display:inline;
 }
 
 .checkbox input{
+    float: left;
     text-align: left;
     display:inline;
 }
