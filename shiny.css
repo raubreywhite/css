@@ -810,7 +810,19 @@ select, .btn.btn-active {
     color: #fff; }
 
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
+.shiny-options-group{display: table; margin: 0 auto;}
+.shiny-input-container{display: table; margin: 0 auto; }
 
 .center-div label{display: block !important; text-align: center !important; color: red;}
 .containerx{display: table; margin: 0 auto;}
 .blockx{float: left;  margin: 0 10px; }
+
+.radio input{
+    text-align: left;
+    display:inline;
+}
+
+.checkbox input{
+    text-align: left;
+    display:inline;
+}
