@@ -803,8 +803,8 @@ select, .btn.btn-active {
     color: #fff; }
 
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
-.shiny-options-group{display: table; margin: 0 auto; background-color:yellow!important;
-float:left!important;}
+.shiny-options-group{display: block; margin: 0 auto; background-color:yellow!important;
+}
 .shiny-input-container{display: table; margin: 0 auto; }
 
 label{
