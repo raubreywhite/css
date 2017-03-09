@@ -807,19 +807,34 @@ select, .btn.btn-active {
 }
 .shiny-input-container{display: table; margin: 0 auto; }
 
-label {
+
+.center-div label{display: block !important; text-align: center !important; color: red;}
+
+.form-group label{
   display: block!important;
   margin: 0 auto!important;
     margin-bottom: 0em!important;
     margin-top: 5px!important;
     line-height: 1.8!important; 
-float:left !important;
-text-align:right!important;
+float:right !important;
   font-size: 14px!important;;
 width: 300px !important;
 margin-left:-300px !important;
+
 }
 
+label.control-label{
+  display: block!important;
+  margin: 0 auto!important;
+    margin-bottom: 0em!important;
+    margin-top: 5px!important;
+    line-height: 1.8!important; 
+float:right !important;
+  font-size: 14px!important;;
+width: 300px !important;
+margin-left:-300px !important;
+
+}
 
 .containerx{display: table; margin: 0 auto;}
 .blockx{float: left;  margin: 0 10px; }
