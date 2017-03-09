@@ -811,6 +811,10 @@ label {display:table!important;
     line-height: 1.8!important;
 color:green;}
 
+div.form-group label {display:table!important; 
+    line-height: 1.8!important;
+color:red;}
+
 label.control-label{
   display: table!important;
   margin: 0 auto!important;
