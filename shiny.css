@@ -810,12 +810,12 @@ select, .btn.btn-active {
 label {display:table!important; 
     line-height: 1.8!important;
   font-size: 14px!important;
-color:green;}
+}
 
 div.shiny-input-radiogroup label {display:table!important; 
     line-height: 1.8!important;
   font-size: 14px!important;
-color:red;}
+}
 
 div.shiny-input-radiogroup>label.control-label{
   display: table!important;
@@ -828,7 +828,7 @@ float:left !important;
 width: 300px !important;
 margin-left:-300px !important;
 text-align:right;
-color:yellow;
+
 }
 
 .containerx{display: table; margin: 0 auto;}
