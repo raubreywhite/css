@@ -804,7 +804,7 @@ select, .btn.btn-active {
 
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
 .shiny-options-group{display: table; margin: 0 auto; background-color:yellow!important;
-float:left!important;}
+}
 .shiny-input-container{display: table; margin: 0 auto; }
 
 label.control-label{
