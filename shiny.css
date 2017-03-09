@@ -813,7 +813,8 @@ label.control-label{
     margin-bottom: 0em!important;
     margin-top: 5px!important;
     line-height: 1.8!important; 
-float:right !important;
+float:left !important;
+text-align:right!important;
 background-color: red !important;
 color: green !important;
   font-size: 14px!important;;
@@ -822,7 +823,7 @@ margin-left:-200px !important;
 
 }
 
-.center-div label{display: block !important; text-align: center !important; color: red;}
+
 .containerx{display: table; margin: 0 auto;}
 .blockx{float: left;  margin: 0 10px; }
 
