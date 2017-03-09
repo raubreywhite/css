@@ -818,6 +818,7 @@ label{
     margin-bottom: 0em!important;
     margin-top: 5px!important;
     line-height: 1.8!important; 
+float:left !important;
 
   font-size: 14px;
 }
