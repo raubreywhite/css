@@ -811,16 +811,6 @@ select, .btn.btn-active {
 
 .sidepadding{margin: auto; padding-left: 100px; padding-right: 100px; height: 100%;}
 
-.shiny-input-container{display: table; margin: 0 auto; }
-label{
-  display: table!important;
-  margin: 0 auto!important;
-    margin-bottom: 0em!important;
-    margin-top: 5px!important;
-    line-height: 1.8!important; 
-
-  font-size: 14px;
-}
 .center-div label{display: block !important; text-align: center !important; color: red;}
 .containerx{display: table; margin: 0 auto;}
 .blockx{float: left;  margin: 0 10px; }
